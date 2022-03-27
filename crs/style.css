@@ -1,0 +1,17 @@
+color: rojo {
+  color: red;
+}
+.cursiva-negrita {
+  font-weight: bold;
+  font-style: italic;
+}
+div {
+  background-color: turquoise;
+  border: 1px solid blue;
+}
+.div-especial {
+  background-color: blue;
+  border: 5px solid yellowgreen;
+  padding: 50%;
+  margin: 10px;
+}
